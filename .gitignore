@@ -1,0 +1,14 @@
+# macOS files
+.DS_Store
+__MACOSX
+._*
+# Swap files
+*.swp
+
+# Python bytecode
+*.pyc
+__pycache__
+# Python virtual environments
+venv
+# Setuptools files
+*.egg-info
